@@ -1,4 +1,4 @@
-## Responsive-Portfolio: Loreina Salalila
+# Responsive-Portfolio: Loreina Salalila
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
