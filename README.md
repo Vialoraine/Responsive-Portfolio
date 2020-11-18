@@ -4,6 +4,8 @@
 
 https://vialoraine.github.io/Responsive-Portfolio/
 
+# Screenshot:
+<img src= "https://github.com/Vialoraine/Responsive-Portfolio/blob/main/Assets/index.jpg?raw=true">
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
